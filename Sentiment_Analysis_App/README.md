@@ -6,7 +6,5 @@ neural network performing sentiment analysis on movie reviews using AWS SageMark
 
 ## App Architecture
 
-![Model App Architecture](./Web App Diagram.svg)
-
 <img src="./Web App Diagram.svg">
 
