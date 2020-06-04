@@ -45,3 +45,22 @@ The project requires Python 3.7.6 and the following Python libraries are require
                     in ML_Workflow.ipynb  
 * ml_pipelines.py - contains the machine learning pipeline definitions referenced in ML_Workflow.ipynb 
 * ML_Workflow.ipynb - contains the machine learning workflow required to develop the machine learning models
+
+### Exploratory Data Analysis 
+<img src="./images/FakeNewsWordCloud.png">
+
+<img src="./images/TrueNewsWordCloud.png">
+
+### Model Pipeline Implementation
+<img src="./images/SVC_Model_Pipeline.png">
+
+### Machine Learning Model Results
+| Model | Accuracy |
+| --- | --- |
+| Benchmark Logistic Regression | 58.64% |
+| Multinomial Naive-Bayes | 93.12% |
+| Linear SVC | 99% |
+| Tuned Multinomial Naive-Bayes | 93.58% |
+| Tuned Linear SVC | 99.28% |
+| Fully Connected Feed-Forward Model (1-hidden layer – 50 nodes, dropout – 0.02, Adam optimizer) | 87.3% |
+| Fully Connected Feed-Forward Model (1-hidden layer – 20 nodes, dropout – 0.02, Adam optimizer) | 88% |
