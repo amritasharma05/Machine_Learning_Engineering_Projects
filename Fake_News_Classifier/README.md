@@ -1,4 +1,4 @@
-### Capstone Project
+### Fake News Classifier Project
 
 This project is chosen from [Kaggle dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) to 
 classify the news into fake or true news. The challenge here is to create an algorithm to classify if an article is 
